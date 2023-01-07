@@ -2,7 +2,7 @@ from pwn import *
 import paramiko
 
 host = "127.0.0.1"
-username = "d0k4"
+username = "......"
 attempts = 0
 
 with open("20-SSH-passwords", "r") as password_list:

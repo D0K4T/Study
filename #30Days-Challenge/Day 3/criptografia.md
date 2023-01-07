@@ -1,5 +1,4 @@
-#Study
-Dia 3 do #30day-challenge
+#Dia 3 do #30day-challenge
 
 ## **Criptografia**
 

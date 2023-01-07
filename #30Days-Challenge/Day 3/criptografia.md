@@ -48,4 +48,3 @@ O algoritmo de criptografia RSA é utilizado comercialmente pela primeira vez na
 
 # ...................
 
-**Deixarei também alguns livros sobre o assunto para quem deseja se aprofundar**
